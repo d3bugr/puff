@@ -1,4 +1,4 @@
 # puff
 ppuff
 
-(Criminalistica)[cc.md]
+[Criminalistica](cc.md)
